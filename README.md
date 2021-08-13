@@ -1,6 +1,6 @@
 # JSTL-Tutorials ❤️
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/JSTL-Tutorials)   ![](https://img.shields.io/github/languages/top/gowthamrajk/JSTL-Tutorials)
+![](https://img.shields.io/github/languages/count/CodeJamm/JSTL-Tutorials)   ![](https://img.shields.io/github/languages/top/CodeJamm/JSTL-Tutorials)
 
 - This is my **JSTL Tutorial** which is about **JSTL (JSP Tag Libraries)** that gives you a clear understanding about all the JSTL tags and their functionalities with practical code implementations for each tags.
 
